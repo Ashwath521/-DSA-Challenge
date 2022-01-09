@@ -10,4 +10,4 @@ function nonRepeatingWords(str1, str2) {
 const str1 = ["Hello", "world"];
 const str2 = ["Hello", "Vishwas"];
 
-console.log(nonRepeatingWords(str1, str2));
+console.log(nonRepeatingWords(str1,str2));
